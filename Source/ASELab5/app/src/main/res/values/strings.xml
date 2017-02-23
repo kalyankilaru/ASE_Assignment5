@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ASELab5</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCeylb-CKg8Avw_g5jil9wdABynzeZfv_U</string>
+</resources>
